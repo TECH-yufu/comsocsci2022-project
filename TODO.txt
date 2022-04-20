@@ -1,0 +1,5 @@
+Preprocessing:
+- Remove products that have more categories than  ['Grocery & Gourmet Food']
+
+Network:
+- Create the network with users as nodes and bought products as edges
